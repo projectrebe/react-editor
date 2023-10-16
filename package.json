@@ -22,6 +22,9 @@
 		"tsc": "tsc",
 		"typedoc": "typedoc"
 	},
+	"engines": {
+		"node": "14.x"
+	  },
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/salgum1114/react-design-editor.git"
@@ -91,7 +94,7 @@
 		"@types/color": "^3.0.1",
 		"@types/echarts": "^4.4.6",
 		"@types/fabric": "^4.5.7",
-		"@types/lodash": "^4.14.150",
+		"@types/lodash": "^4.14.74",
 		"@types/react": "^16.14.21",
 		"@types/react-dom": "^16.9.14",
 		"@types/react-helmet": "^5.0.15",
