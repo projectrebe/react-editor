@@ -1,8 +1,8 @@
 # Dependency directories
 node_modules/
-# public/js
-# public/index.html
-# public/fonts
+public/js
+public/index.html
+public/fonts
 # dist/
 # lib/
 .vscode/
