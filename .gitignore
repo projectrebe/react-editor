@@ -1,7 +1,7 @@
 # Dependency directories
 node_modules/
 public/js
-public/index.html
+# public/index.html
 public/fonts
 # dist/
 # lib/
