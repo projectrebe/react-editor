@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import isEmpty from 'lodash/isEmpty';
+import {isEmpty} from 'lodash';
 import i18n from 'i18next';
 import { Form, Input, Select, InputNumber, Switch, Col, Tooltip } from 'antd';
 import Configuration from './index';

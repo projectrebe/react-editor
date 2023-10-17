@@ -1,5 +1,5 @@
 import { fabric } from 'fabric';
-import isEqual from 'lodash/isEqual';
+import {isEqual} from 'lodash';
 import Handler from './Handler';
 
 export type GrayscaleModeType = 'average' | 'luminosity' | 'lightness';

@@ -24,10 +24,10 @@
 	},
 	"engines": {
 		"node": "14.x"
-	  },
+	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/salgum1114/react-design-editor.git"
+		"url": "git+https://github.com/projectrebe/react-editor.git"
 	},
 	"keywords": [
 		"React.js",
@@ -39,9 +39,9 @@
 	"author": "salgum1114",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/salgum1114/react-design-editor/issues"
+		"url": "https://github.com/projectrebe/react-editor/issues"
 	},
-	"homepage": "https://salgum1114.github.io/react-design-editor",
+	"homepage": "https://github.com/projectrebe/react-editor",
 	"peerDependencies": {
 		"animejs": "^3.0.0",
 		"fabric": "^4.6.0",
@@ -95,6 +95,7 @@
 		"@types/echarts": "^4.4.6",
 		"@types/fabric": "^4.5.7",
 		"@types/lodash": "^4.14.74",
+		"@types/node": "^12.19.12",
 		"@types/react": "^16.14.21",
 		"@types/react-dom": "^16.9.14",
 		"@types/react-helmet": "^5.0.15",
@@ -127,7 +128,7 @@
 		"tslint": "^6.1.1",
 		"tslint-react": "^5.0.0",
 		"typedoc": "^0.17.4",
-		"typescript": "^3.9.10",
+		"typescript": "^2.1.5",
 		"url-loader": "^4.1.0",
 		"webpack": "^4.46.0",
 		"webpack-cli": "^4.9.1",

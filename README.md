@@ -1,4 +1,4 @@
-# React Design Editor
+<!-- # React Design Editor
 
 [![](https://img.shields.io/npm/l/react-design-editor?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License) [![build](https://github.com/salgum1114/react-design-editor/workflows/build/badge.svg)](https://github.com/salgum1114/react-design-editor/actions) [![](https://flat.badgen.net/npm/v/react-design-editor?icon=npm)](https://www.npmjs.com/package/react-design-editor)
 
@@ -89,4 +89,4 @@ Run `npm install react-design-editor` or `yarn add react-design-editor`
 | [anime.js](https://github.com/juliangarnier/anime/)             | MIT                                                |
 | [Webpack 4](https://github.com/webpack/webpack)                 | MIT                                                |
 | [Babel](https://github.com/babel/babel)                         | MIT                                                |
-| [fontawesome5](https://github.com/FortAwesome/Font-Awesome)     | Icons (CC BY 4.0), Fonts (SIL OFL 1.1), Code (MIT) |
+| [fontawesome5](https://github.com/FortAwesome/Font-Awesome)     | Icons (CC BY 4.0), Fonts (SIL OFL 1.1), Code (MIT) | -->

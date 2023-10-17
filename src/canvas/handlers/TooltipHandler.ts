@@ -1,4 +1,4 @@
-import debounce from 'lodash/debounce';
+import {debounce} from 'lodash';
 import ReactDOM from 'react-dom';
 import { FabricObject } from '../utils';
 import Handler from './Handler';
