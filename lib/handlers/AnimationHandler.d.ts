@@ -37,7 +37,7 @@ declare class AnimationHandler {
      * @param {boolean} [hasControls=true]
      * @returns
      */
-    resetAnimation: (obj: FabricObject, hasControls?: boolean) => void;
+    resetAnimation: (obj: FabricObject<import("../../../../../../../../Users/PARWEZ ZAFAR/Desktop/react_designer/react-design-editor/node_modules/@types/fabric/fabric-impl").Object>, hasControls?: boolean) => void;
     /**
      * Get animation option
      *
@@ -45,6 +45,6 @@ declare class AnimationHandler {
      * @param {boolean} [hasControls]
      * @returns
      */
-    getAnime: (obj: FabricObject, hasControls?: boolean) => anime.AnimeInstance;
+    getAnime: (obj: FabricObject<import("../../../../../../../../Users/PARWEZ ZAFAR/Desktop/react_designer/react-design-editor/node_modules/@types/fabric/fabric-impl").Object>, hasControls?: boolean) => anime.AnimeInstance;
 }
 export default AnimationHandler;
